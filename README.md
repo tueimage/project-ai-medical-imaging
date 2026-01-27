@@ -120,7 +120,7 @@ The pitch session follows a structured **Formative Review** model designed to va
 ℹ️ *Both of these can be filled at the end of the Jupyter notebook and you can submit that in Canvas.*
 
 ### For the Open Project
-* **Scientific Poster:** A scientific posted summarizing research questions, experiments, and results.
+* **Scientific Poster:** A scientific poster summarizing research questions, experiments, and results.
 
 ### Submission Mechanics
 Submit one set of deliverables per group via Canvas. Punctual submissions are expected, though small delays for valid technical issues (e.g., code crashes) are not penalized. Inform the instructors immediately of significant delays.
