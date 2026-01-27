@@ -36,7 +36,7 @@ There are four files that contain all instructions for the course:
 | README.md | The file that you are reading now, containing course information, logistics and guidelines |
 | assignment_1_GPT.ipynb | Jupyter notebook for Assignment 1 focusing on GPT language models |
 | assignment_2_VLM.ipynb | Jupyter notebook for Assignment 2 focusing on vision-language models |
-| open_assignment.ipynb | Jupyter notebook for the open-ended project component of the course |
+| open_assignment.md | Instructions for the open-ended project component of the course |
 
 Detailed instructions, theory questions, and code skeletons are provided directly within the Jupyter notebooks. Additionally, there are links to videos, papers and other recommended reading materials that you will find helpful in your work. 
 
@@ -48,24 +48,23 @@ We will also use Canvas for communication and assignment submission.
 The course is worth 5 ECTS. You are expected to spend **28 hours per ECTS** (140 hours total) on preparation and assignment work.
 
 ### Flipped Classroom Model
-This is a project-based course. You are expected to work independently and proactively within your groups. We do not provide step-by-step instructions; you must navigate technical challenges and make methodological decisions under the guidance of TAs and instructors.
+This is a **project-based course**. You are expected to work independently and proactively within your groups. We do not provide step-by-step instructions; you must navigate technical challenges and make methodological decisions under the guidance of TAs and instructors.
 
-* **Preparation:** Read papers/materials and watch videos at home.
-* **Lecture:** Actively discuss questions and topics. You do not sit and listen to a lecture.
+The course has one kick-off meeting and five lectures. The lectures are in a **flipped classroom** setting. In this course, "flipped Classroom" means you read the papers and other materials, and watch the videos at home as a **preparation for the lecture**. During the lecture, you actively discuss questions and topics about the material with other groups. You do not sit and listen to a lecture.
 
 ### Work in Groups
-All assignments are performed in groups of 4 students via self-assignment in Canvas. Groups are divided into two sets (**Set A** and **Set B**) with rotating roles:
+All assignments are performed in groups of 4 students via self-assignment in Canvas. Groups are divided into two sets (**Odd-numbered groups** and **Even-numbered groups**) with rotating roles:
 
-* **Clients:** Responsible for identifying gaps in understanding. Prepare theoretical questions or coding challenges to pose to Consultants.
+* **Clients:** Responsible for identifying gaps in understanding. Prepare theory and coding/implementation questions to pose to Consultants.
 * **Consultants:** Support the discussion. Review material beforehand to brainstorm, answer Client questions, and exchange resources.
 
 ### Conflict Resolution & Individual Grading
-Professional collaboration is expected. If significant imbalance occurs, approach the TA/instructor immediately. Upon request, a formal peer review will assess individual contributions, potentially resulting in individual grades differing from the group average.
+Professional collaboration within the groups is expected. If significant imbalance occurs, approach the TA/instructor immediately. Upon request, a formal peer review will assess individual contributions, potentially resulting in individual grades for students differing from the group average.
 
 ## 3. Course Outline & Schedule
 *For specific deadline dates, please check Canvas.*
 
-| Week | Activity | Deadlines | Group Set A Role | Group Set B Role |
+| Week | Activity | Deadlines | Odd-numbered Groups Role | Even-numbered Groups Role |
 | :--- | :--- | :--- | :--- | :--- |
 | **Week 1** | Intro lecture | | | |
 | **Week 2** | Assignment 1 flipped classroom | | Clients | Consultants |
@@ -88,7 +87,7 @@ Each flipped lecture follows a structured **Peer Consultancy** model designed to
 **Part 1: The Consultancy (35 min)**
 * **Pair Up:** One **Client** group pairs with one **Consultant** group.
 * **Discussion:**
-    * Clients present their prepared questions or coding blockers.
+    * Clients present their prepared questions or coding/implementation blockers.
     * Consultants use their prepared notes to brainstorm solutions, explain concepts, or point to specific resources.
 * **The "Unsolvables":** If the paired groups cannot agree on an answer or solve a specific error, they must write this down as a "Priority Question."
 
