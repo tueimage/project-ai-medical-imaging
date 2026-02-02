@@ -61,7 +61,7 @@ ___
 * Liu et al, Adaptive Prototype Learning for Multimodal Cancer Survival Analysis, arXiv, 2025
 
 ---
-# From Vision to Language
+# From Vision to Language (and Beyond)
 * Increasingly medical image analysis is not just about "seeing." 
 * It is about **interpreting** images, often in combination with other modalities (e.g. text, lab tests, etc.)
     * We call this **multi-modal** analysis.
@@ -189,7 +189,7 @@ To ensure project feasibility, every group presents a **2-minute pitch**:
 # Assignment 1: GPT from Scratch
 ## Skill Building: Generative Language Modeling
 
-* **Core Objective:** Master the Transformer architecture by building a decoder-only model from scratch.
+* **Core Objective:** Study the Transformer architecture by building a decoder-only model from scratch.
 * **Architecture:** Implementation of self-attention mechanisms, including Query, Key, and Value matrices.
 * **Autoregressive Learning:** Training the model to predict the next token in a sequence using character-level tokenization.
 * **Medical Context:** Use of textual figure captions from the Open-MELON dataset to learn medical terminology.
@@ -199,7 +199,7 @@ To ensure project feasibility, every group presents a **2-minute pitch**:
 # Assignment 1: Rationale
 ## Why Build a "NanoGPT"?
 
-* **Technical Depth:** Moving beyond high-level APIs to understand the exact data flow within a Transformer block.
+* **Technical Depth:** Moving beyond use of AI models via APIs or chatbots to understand the exact data flow within a Transformer block.
 * **Practical Training:** Learning how hyperparameters like learning rate, batch size, and temperature affect training and output quality.
 * **Foundational Knowledge:** Learning "the basics" before moving to multi-modal vision-language tasks.
 * **Model Evaluation:** Understanding how models prioritize "plausible sounding" text over factual truth in medical reports.
